@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tryals at the sessions in the Old-Bailey, which began for the city of London, county of Middlesex, and goale delivery of Newgate, on Wednesday the 8th of this intant December, and ended on Thursday the 10th of the same giving a full and satisfactory relation of the most remarkable circumstances that happened in each tryal; as that of Elizabeth Owen for firing her masters house, and John Sancey for robbing a French marquess, and wounding his steward, with several others; as also the number of those condemned to dye, to be burnt in the hand, transported, and whipped.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94861</idno>
+            <idno type="STC">Wing T2248B</idno>
+            <idno type="STC">ESTC R213447</idno>
+            <idno type="EEBO-CITATION">99895832</idno>
+            <idno type="PROQUEST">99895832</idno>
+            <idno type="VID">153671</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94861)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153671)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2374:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tryals at the sessions in the Old-Bailey, which began for the city of London, county of Middlesex, and goale delivery of Newgate, on Wednesday the 8th of this intant December, and ended on Thursday the 10th of the same giving a full and satisfactory relation of the most remarkable circumstances that happened in each tryal; as that of Elizabeth Owen for firing her masters house, and John Sancey for robbing a French marquess, and wounding his steward, with several others; as also the number of those condemned to dye, to be burnt in the hand, transported, and whipped.</title>
+                  <author>England and Wales. Court of Quarter Sessions of the Peace (London)</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>John Sancey is called "Charles Sancey" in the text.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Owen, Elizabeth --  Early works to 1800.</term>
+               <term>Sancey, Charles, d. 1680 --  Early works to 1800.</term>
+               <term>Trials --  England --  Early works to 1800.</term>
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:153671:1" rendition="simple:additions"/>
+            <head>THE TRYALS At the SESSIONS In the Old-Bailey, Which began for the City of <hi>LONDON,</hi> County of <hi>Middleſex,</hi> and Goale Delivery of <hi>Newgate,</hi> on Wedneſday the 8th of this inſtant <hi>December,</hi> and ended on Thurſday the 10th of the ſame; giving a full and ſatisfactory Relation of the moſt remar<g ref="char:EOLhyphen"/>kable Circumſtances that happened in each Tryal; as that of <hi>Eli<g ref="char:EOLhyphen"/>zabeth Owen</hi> for Firing her Maſters Houſe, and <hi>John Sancey</hi> for Robbing a French Marqueſs, and Wounding his Steward, with ſe<g ref="char:EOLhyphen"/>veral others; as alſo the number of thoſe Condemned to Dye, to be Burnt in the Hand, Tranſported, and Whipped.</head>
+            <p>
+               <hi>ELizabeth Owen</hi> was Tryed upon two ſeveral Indictments, the firſt of which was, for ſetting fire to the Houſe of <hi>James Cooper,</hi> in the Pariſh of St. <hi>Dunſtans</hi> in the Weſt, on the 8th day of <hi>November</hi> laſt; ſhe being then a Servant in the ſaid Houſe. The circumſtances of the Fact were theſe, That in the evening of the day before-mentioned, between eleven and twelve of the clock, ſhe came to the Tapſter, and informed him that ſhe ſmelt a grievous ſmoak, and thereupon demanded of him what he was burning? who anſwered, nothing but Coals; with this, ſhe not being ſatisfied, went to her Ma<g ref="char:EOLhyphen"/>ſter, and informed him how that ſhe believed the Houſe was on fire, for there was a ſmoak that made her coff extreamly, yet at that time there could be no ſmoak perceived, but the Tapſter going into the yard, ſoon diſcovered that the upper part of the Houſe was on a light fire, at which, in a great conſternation, he and the reſt, ran up ſtairs, and with the aſſiſtance of ſeveral Neighbours, had the good luck to extinguiſh the flame, which had conſumed ſeveral Trunks, and burnt quite through the floor: during which ſpace the now Priſoner went directly to a<g ref="char:EOLhyphen"/>nother Garret, and opening a box, found that on fire likewiſe; upon theſe, and her denying to carry water, ſhe was ſuſpected, and upon farther ſearch, they found that ſhe had broken open the Trunk, and tying up the wearing Apparel of <hi>Eraſ<g ref="char:EOLhyphen"/>mus Armſtrong</hi> in one of her Aprons, had thrown them into a Neighbours yard. As likewiſe ſhe had taken away three Rings, and a <hi>Jacobus.</hi> Theſe circumſtances being proved againſt her, ſhe was found guilty of both the Indictments, that is, for ſeting fire to the Houſe, and ſtealing the Tapſters Cloaths, Rings, and Gold, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Margaret Adams,</hi> of the Pariſh of St. <hi>Brides,</hi> took her Tryal for Murthering her Male Baſtard Child; the Evidence againſt her was, that ſhe being lately come to <hi>London,</hi> had got her a Service, her Miſtreſs not perceiving that ſhe was with Child, but lodge<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a little Girl with her, when ſhe on the 28th of <hi>November</hi> laſt, was delivered without the knowledge of any, and riſing early next morning, went about her occaſions, leaving the Child dead in the bed with her Miſtreſſes Daugh<g ref="char:EOLhyphen"/>ter, it being conjectured that ſhe had ſmothered it with the Bed-cloaths, the which the Girl waking found, and called out, ſaying, there was a Child in the bed, where<g ref="char:EOLhyphen"/>upon
+<pb n="2" facs="tcp:153671:2"/>ſeveral Neighbours coming in, found it to be ſo. Upon her Tryal ſhe plea<g ref="char:EOLhyphen"/>ded that the Child was ſtill born, and that one <hi>John Aſhmore,</hi> upon promiſe of Mar<g ref="char:EOLhyphen"/>riage ſo far prevailed as to deflour her, but upon the reading of the Statute in that caſe made and provided, ſhe was found guilty of the Murther.</p>
+            <p>
+               <hi>Charles Sancey</hi> a French man, was Tryed for feloniouſly entring the houſe of a French Marqueſs, in the Pariſh of St. <hi>Martins in the fields.</hi> The Evidence againſt him, and his own Confeſſion before Juſtice <hi>Floyd,</hi> was this, firſt the Evidence ſwore, that about one or two of the clock in the morning, he heard Murther and Thieves, cryed out in the Marqueſſes Lodging, whereupon riſing and running thi<g ref="char:EOLhyphen"/>ther, he found the lower doors open, and going up ſtairs, found the Marqueſſes Steward weltting in his Blood, and a great Knife lying by him, ſo that finding no man there beſide, he ſearched about, (there being then ſeveral come to his aſſiſtance) and in the Celler found the Priſoner, all beſmeared with the Stewards Blood, who being carried before the Juſtice, did confeſs, that he and four more had a deſign to rob the Marqueſs, they having not long ſince robbed him of 400 Guini<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s. Upon his Tryal he pleaded that he was drunk, and that he got into the Houſe by chance, not knowing any thing of the buſineſs; yet that ſerved not his turn, for although he carried away nothing, as being timely prevented, he was found guilty of breaking the houſe in the night time with an intent to ſteal.</p>
+            <p>
+               <hi>Thomas Stone</hi> was Tryed for Robbing of, and barbarouſly wounding <hi>Henry At<g ref="char:EOLhyphen"/>ley</hi> of the Pariſh of <hi>Lathum</hi> in the County of <hi>Middleſex,</hi> the ſubſtance of the Try<g ref="char:EOLhyphen"/>al thus; the Priſoner ſetting upon the aforeſaid <hi>Atley,</hi> bid him deliver his Money, which he refuſing, he drew out a Piſtol and ſhot him through the wriſt, of which wound he languiſhed from that time, it being the 27th of <hi>February,</hi> to the ſe<g ref="char:EOLhyphen"/>cond of <hi>March,</hi> and then dyed. There was very ſtrong preſumption againſt the priſoner, but there being no poſitive proof that he was the Man, he was acquit<g ref="char:EOLhyphen"/>ted.</p>
+            <p>
+               <hi>Suſanna Haſelw<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od</hi> received her Tryal for entring the Houſe of <hi>Jeremiah Lup<g ref="char:EOLhyphen"/>ton,</hi> on the 26th of <hi>October,</hi> in the day time, and taking thence one Holland ſheet, a Table Cloath, a pinner, and ſeveral other things, being by ſome of the Neigh<g ref="char:EOLhyphen"/>bours taken as ſoon as ever ſhe came out of the houſe; ſhe pretended ſhe lodged there, and going in again, ſhe threw down the things, and dropped ſeveral Pick<g ref="char:EOLhyphen"/>lock keys in the Chimney corner. Upon her Tryal ſhe denyed that ſhe ever was in the Houſe; but the proof being plain, ſhe was found guilty to the value of four ſhillings and ſix pence.</p>
+            <p>
+               <hi>Benjamine Wilcaſon</hi> was indicted for ſtealing a Shift, ſe<g ref="char:EOLhyphen"/>veral Napkins, Table-cloaths, and other Linnen, out of a houſe neer <hi>Paul</hi>'s Wharf, and pleaded guilty to all Felo<g ref="char:EOLhyphen"/>nies within the benefit of his Clergy; and thereupon was burnt in the hand.</p>
+            <p>
+               <hi>Samuel Doughty</hi> and <hi>John Cows,</hi> were tryed for ſtealing a ſilver Tankard from <hi>Walter Briſcoe</hi> in the Pariſh of St. <hi>An<g ref="char:EOLhyphen"/>drew Holborn,</hi> valued at five pounds. The Priſoners plea<g ref="char:EOLhyphen"/>ded that the ſaid <hi>Briſcow</hi>'s Wife had given the Tankard to one of them, <hi>viz. Doughty,</hi> who, as he ſaid, had been a Servant to the Marquiſs of <hi>Wincheſter,</hi> for ſome Kindneſſes that he had obliged her in; and that ſhe had often oppor<g ref="char:EOLhyphen"/>tun'd <hi>Cows,</hi> who was a Hat-maker by Trade, to deliver the ſame to <hi>Doughty,</hi> telling him, He ſhould come to no da<g ref="char:EOLhyphen"/>mage by the ſame, ſaying, That it was in part to make
+<pb n="3" facs="tcp:153671:2"/>him amends for the ſervice he had loſt by keeping of her company; and that ſhe would farther gratifie him, or words to that effect. Upon which he delivered it, and it was ſold to a Goldſmith, in whoſe hands <hi>Briſcowe</hi> found it; but there being no Proof to contradict the womans deliver<g ref="char:EOLhyphen"/>ing of it, they were both acquitted.</p>
+            <p>
+               <hi>Jane Lant</hi> was tryed for ſtealing of Silks to the value of twelve pounds, from a Mercer. Her Plea was, That ano<g ref="char:EOLhyphen"/>ther had ſtollen the ſame and delivered it to her; but ſhe being preſent at the ſame time when it was ſtole, and part of the Goods afterwards found in her cuſtody, ſhe having been a notorious Shoplift, and ſeveral times pardoned, was found guilty of the Felony.</p>
+            <p>
+               <hi>Edward Townſend</hi> was indicted for the murdering of <hi>Iſaac Smith</hi> a Watchman, in <hi>Ivy-lane</hi> in the Pariſh of Saint <hi>Faiths, London.</hi> The Evidence againſt him was this, That he, in the company of <hi>Whitticar</hi> and <hi>Watſon,</hi> condemned for the ſame the laſt Seſſions, was coming down <hi>Pater Noſter Row</hi> in <hi>May</hi> laſt about three of the clock in the morning, and in their way made ſuch a noiſe as made the deceaſed, who was then upon his Stand, queſtion them, and endea<g ref="char:EOLhyphen"/>vour to ſtop them; whereupon they reſiſted, and endea<g ref="char:EOLhyphen"/>voured to make their Eſcapes, <hi>Whitticar</hi> ſtriking up <hi>Smith</hi>'s heels, and <hi>Watſon</hi> beating down the Lanthorn of another Watchman there aſſiſting; which made <hi>Smith</hi> the deceaſed coller one of them, after which <hi>Watſon</hi> ſnatching away his Staff, with the ſame knocked him down, and thereupon they all made their Eſcape. The blow was ſo violent, that it broke <hi>Smith</hi>'s Scull, and of the ſaid Wound, accor<g ref="char:EOLhyphen"/>ding to the Oath of the Chirurgeon, he died within the ſpace of four months after: When as they having notice that the Parties that had done the Fact lived in the Pariſh of St. <hi>James Clerkenwel,</hi> they were apprehended, <hi>Watſon</hi> and <hi>Whitticar,</hi> as aforeſaid, being condemned for the ſame the laſt Seſſions: But againſt the now Priſoner there being no poſitive Proof that he was of their company, or that he meddled in the Affair, he was acquitted.</p>
+            <p>
+               <hi>Anne Maurlin</hi> and <hi>Jane Fowler</hi> were [ſeverally Tryed, for Stealing the Goods of <hi>Richard Huetſon,</hi> of the Pariſh of
+<pb n="4" facs="tcp:153671:3" rendition="simple:additions"/>St. <hi>Botolfs</hi> without <hi>Algate;</hi> the former for ſtealing of a Quart-pot, valued at 1 <abbr>
+                  <hi>ſhil.</hi>
+               </abbr> 6 <abbr>
+                  <hi>d.</hi>
+               </abbr> the which, as they ſwore, ſhe conveyed away in a bundle of Linnen, which ſhe had to waſh: Her Plea was, that the Maid of the Houſe deli<g ref="char:EOLhyphen"/>vered it to her; and that ſhe had ſince told her, that i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was a Lodger that put it in for the Jeaſts ſake. The Evi<g ref="char:EOLhyphen"/>dence being heard on both hands, it proved, that the peo<g ref="char:EOLhyphen"/>ple that proſecuted kept an ill houſe; So that the Jury brought the Priſoner in, Not Guilty.</p>
+            <p>The latter was Indicted for ſtealing of Sheets, Table<g ref="char:EOLhyphen"/>cloaths, Napkins, and other Goods, to the value of 20 <abbr>
+                  <hi>s.</hi>
+               </abbr> and ſeveral pieces of Plate and Moneys, ſhe being a Nurſe in the houſe. The moſt remarkable paſſage sn this Trial was, that a Fellow coming to teſtifie in the behalf of the Priſoner, that the Proſecutor had no ſuch Goods as were pretended to be loſt, himſelf knowing what was in her poſſeſſion, having taken an Inventory of all during the time of her Husbands abſence, and that he was fain to lend the woman of the Houſe his Shirts to wear. But in his earneſt diſcourſe Swearing an Oath, the Court obliged him to pay 12 <abbr>
+                  <hi>d.</hi>
+               </abbr> for the ſame, and the Priſoner was ac<g ref="char:EOLhyphen"/>quitted.</p>
+            <p>One <hi>John Bullion</hi> was brought to the Bar, to be Tryed as a Popiſh Prieſt; But Pleading he had formerly been tryed for the ſame before a Judge of an Aſſize and there Acquitted, his Trial was put off till the next Seſſions.</p>
+            <p>My Lord <hi>Lumley</hi> being Indicted for Recuſancy, brought ſufficient Evidence, that he had been at Divine Service, and taken the Sacrament according to the Church of <hi>En<g ref="char:EOLhyphen"/>gland;</hi> and thereupon Order was given for the withdrawing the ſaid Indictment.</p>
+            <p>There were Five Condemned; viz. <hi>Elizabeth Owen, Margaret Adams, Frances Small, Jane Lant,</hi> and <hi>Charles Sancey.</hi> Four Burnt in the Hand. Three to be Tran<g ref="char:EOLhyphen"/>ſported. Two to be Whipt. And ſo the Seſſion con<g ref="char:EOLhyphen"/>cluded.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
